@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.upper{
+
+    position: relative;
+    width: 100%;
+    background-color: #3C3633;
+}
+
+nav {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 20px;
+    font-size: 1.5em;
+}
+
+h1{
+    margin: 70px;
+}
+
+p{
+    margin: 70px;
+}
+
+a {
+    color: white;
+}
+
+.intro{
+    margin-top:0;
+    padding: 70px;
+    text-align: center;
+    position: relative;
+    background-color: #E0CCBE;
+    
+   }
+
